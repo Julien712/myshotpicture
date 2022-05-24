@@ -22,7 +22,12 @@
 </footer>
 
 <script type="text/javascript" src="scripts/parallax.js"></script>
-
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+    window.onload = function() {
+        $("body").addClass("loaded");
+    }
+</script>
 <script>
     function voirplus() {
         document.getElementById("voirplus").style.display = "block";

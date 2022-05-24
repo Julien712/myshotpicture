@@ -1,3 +1,9 @@
+<div id="loader-wrapper">
+    <div class="ring">Loading
+        <span></span>
+    </div>
+</div>
+
 <nav>
     <a href="index.php" class="active">&#128247; My shot pictures</a>
     <div id="myTopnav" class="topnav">
